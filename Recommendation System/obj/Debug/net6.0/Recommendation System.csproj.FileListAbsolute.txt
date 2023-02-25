@@ -1,0 +1,58 @@
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\appsettings.json
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Recommendation System.exe
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Recommendation System.deps.json
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Recommendation System.runtimeconfig.json
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Recommendation System.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Recommendation System.pdb
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Microsoft.ML.Core.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Microsoft.ML.Data.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Microsoft.ML.PCA.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Microsoft.ML.Transforms.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Microsoft.ML.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Microsoft.ML.CpuMath.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Microsoft.ML.DataView.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\Recommendation System.csproj.AssemblyReference.cache
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\Recommendation System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\Recommendation System.AssemblyInfoInputs.cache
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\Recommendation System.AssemblyInfo.cs
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\Recommendation System.csproj.CoreCompileInputs.cache
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\Recommendation System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\Recommendation System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\staticwebassets\msbuild.Recommendation System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\staticwebassets\msbuild.build.Recommendation System.props
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Recommendation System.props
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Recommendation System.props
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\scopedcss\bundle\Recommendation System.styles.css
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\Recommendation System.csproj.CopyComplete
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\Recommendation System.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\refint\Recommendation System.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\Recommendation System.pdb
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\Recommendation System.genruntimeconfig.cache
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\obj\Debug\net6.0\ref\Recommendation System.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\Microsoft.ML.Recommender.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\runtimes\linux-arm\native\libMatrixFactorizationNative.so
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\runtimes\linux-arm64\native\libMatrixFactorizationNative.so
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\runtimes\linux-x64\native\libMatrixFactorizationNative.so
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\runtimes\osx-arm64\native\libMatrixFactorizationNative.dylib
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\runtimes\osx-x64\native\libMatrixFactorizationNative.dylib
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\runtimes\win-x64\native\MatrixFactorizationNative.dll
+C:\Users\basne\source\repos\Recommendation System\Recommendation System\bin\Debug\net6.0\runtimes\win-x86\native\MatrixFactorizationNative.dll
